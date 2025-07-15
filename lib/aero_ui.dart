@@ -1,1 +1,1 @@
-export 'resizable_panel_layout.dart';
+export 'layout/resizable_panel_layout.dart';
